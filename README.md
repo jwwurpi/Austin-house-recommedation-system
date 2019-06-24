@@ -6,6 +6,7 @@ This project is aimed at building a house recommedation system to best meet cust
 The project includes 5 parts as below:
 
 Part 1: Web scraping for sold houses (ex:78641)
+
 •Zipcode:78613,78641,78660,78664
 •Sold in past 3 years
 •Built after 2000
