@@ -1,4 +1,4 @@
-# austin-house-pricing
+# austin-house-recommendation
 Austin house recommendation system
 
 This project is aimed at building a house recommedation system to best meet customer's preferences for buying houses. A good recommendation system can quickly filter houses that meet customer's requirement and thus save time to search ideal houses. We choose 4 regions in Austin, TX for this project since Austin area is known as one of the top fast growing areas in US. Therefore, it would be easier for people to find their prefered houses, either principal residence or investment, if there is a good recommendation system.
